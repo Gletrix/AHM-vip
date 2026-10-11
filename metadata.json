@@ -1,0 +1,6 @@
+{
+  "name": "AHM — السوق الجزائري الأمين",
+  "description": "منصة التجارة الإلكترونية الموثوقة في الجزائر - بيئة تجارية متوازنة تضمن حق التاجر وتوفر تسوق آمن ومريح للمشتري مع نظام حماية السمعة ونظام Delivery Pay",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
